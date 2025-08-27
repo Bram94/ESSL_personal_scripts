@@ -1,0 +1,3 @@
+sshfs -p 2203 testbed@vpn.essl.org:/mnt/essl_nas03/www/html/wx /mnt/srv3_essl_www
+cd /mnt/srv3_essl_www/v/rad_dev/radar
+gedit *.* notes/* &

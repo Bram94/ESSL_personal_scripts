@@ -1,0 +1,27 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/bramv"
+"Desktop[path]/home/bramv/Desktop"
+"Collections[path]/home/bramv/.local/share/geeqie/collections"
+
+[path_list]
+"/mnt/essl/work/svrstormsig/examples"
+"/mnt/essl/work/svrstormsig_vis/test/202505/20250506/Balkans"
+"/home/bramv"
+"/mnt/essl/work/svrstormsig_vis/test/202505/20250521"
+"/mnt/essl/work/svrstormsig_vis/test/202505/20250521/S-Germany"
+"/mnt/essl/work/svrstormsig_vis/test/202505/20250521/Balkans"
+"/mnt/essl/work/svrstormsig/test/202505/20250506/Balkans"
+"/mnt/essl/work/svrstormsig/test/202506/20250606/Balkans"
+"/mnt/srv3_images/ot/202506/20250613/France"
+"/mnt/eum4/work/svrstormsig/test/202506/20250613/France"
+
+[bookmarks]
+".[path]/mnt/essl/work/svrstormsig/test/202506/20250606/Balkans"
+"Home[path]/home/bramv"
+"Desktop[path]/home/bramv/Desktop"
+"Collections[path]/home/bramv/.local/share/geeqie/collections"
+
+#end

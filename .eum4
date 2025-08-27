@@ -1,0 +1,3 @@
+sshfs testbed@64.225.128.8: /mnt/eum4
+cd /mnt/eum4/work/svrstormsig
+gedit run.sh get_ot.py svrstormsig/modrun_config.cfg ../../cron.txt &

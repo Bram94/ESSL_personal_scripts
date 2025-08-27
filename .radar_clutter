@@ -1,0 +1,8 @@
+echo "connect to server 4"
+sshfs testbed@135.181.130.183:/home/testbed /mnt/essl
+echo "connect to server 3"
+sshfs -p 2203 testbed@vpn.essl.org:/home/testbed /mnt/srv3_essl
+cd /mnt/essl/scripts
+gedit get_radars* radar_converter_dev.py get_radar_shmu* get_radar_dhmz* get_radar_clutter_map* &
+cd /mnt/srv3_essl/scripts
+gedit radar_converter.py &

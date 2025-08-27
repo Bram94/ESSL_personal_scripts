@@ -1,0 +1,4 @@
+echo "connect to server 4"
+sshfs testbed@135.181.130.183:/home/testbed /mnt/essl
+cd /mnt/essl/work/radarsmf
+gedit *.py &

@@ -1,0 +1,19 @@
+for source in $(ls -d */); do echo $source; cd $source; for month in $(ls -d */); do echo $month; cd $month; for day in $(ls -d */); do echo $day; cd $day; for radar in $(ls -d */); do echo $radar; cd $radar; file=${day::-1}"_"${radar::-1}".tar"; if [ -f $file ]; then tar -xvf $file; rm $file; fi; cd ..; done; cd ..; done; cd ..; done; cd ..; done;
+
+rsync -av -e 'ssh -p 2203' testbed@vpn.essl.org:/home/testbed/data/radars/meteo-france/202407/20240730/cherves/*202407301[56789]* meteo-france/202407/20240730/cherves
+date=20240802; radars="nimes bollene sembadel collobrieres"; for radar in $radars; do echo $radar; rsync -av -e 'ssh -p 2203' testbed@vpn.essl.org:/home/testbed/data/radars/meteo-france/${date:0:6}/${date}/$radar/*${date}1[45]* meteo-france/${date:0:6}/${date}/$radar; done;
+
+dirs="rad rad_pub_com rad_pub_non"; for dir in $dirs; do rsync -av --prune-empty-dirs --exclude 'radar/static/radars_eu.geojson' rad_dev/ $dir/; done;
+
+dirs="rad rad_pub_com rad_pub_non"; for dir in $dirs; do cp rad_dev/radar/notes/cases.txt $dir/radar/notes; done;
+dirs="rad rad_pub_com rad_pub_non"; for dir in $dirs; do cp rad/radar/main.js $dir/radar; done;
+
+dir1=/mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python; dir2=/mnt/srv3_essl_www/v; sub=radar/static; cp $dir1/radars_eu.geojson $dir2/rad_dev/$sub/radars_eu.geojson;
+cp $dir1/radars_eu.geojson $dir2/rad/$sub/radars_eu.geojson; cp $dir1/radars_eu_pub_com.geojson $dir2/rad_pub_com/$sub/radars_eu.geojson; cp $dir1/radars_eu_pub_non.geojson $dir2/rad_pub_non/$sub/radars_eu.geojson;
+cp $dir1/radars_eu.txt /mnt/srv3_essl/scripts/static
+
+rsync -v /mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python/marker*.png .
+
+for file in `ls .`; do cat $file | grep -E "T|G"; printf "\n"; done;
+
+for radar in *; do for product in dbzh vradh; do echo $product; rename -n 's/ras07-vol5minng01_sweeph5onem_/ras07-stqual-vol5minng01_sweeph5onem_/g' $radar/*_$product*hd5; done; done;
