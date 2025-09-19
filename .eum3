@@ -1,0 +1,2 @@
+sshfs testbed@185.254.221.158: /mnt/eum3
+cd /mnt/eum3 &

@@ -3,6 +3,10 @@ sshfs testbed@135.181.130.183:/home/testbed /mnt/essl
 echo "connect to server 3"
 sshfs -p 2203 testbed@vpn.essl.org:/home/testbed /mnt/srv3_essl
 cd /mnt/essl/scripts
-gedit get_radar_$1* radar_converter_dev* get_radars* &
+for var in "$@"
+do 
+	gedit get_radar_$var* &
+done
+gedit radar_converter_dev* get_radars* &
 cd /mnt/srv3_essl/scripts
 gedit radar_converter.py &

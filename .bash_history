@@ -1,299 +1,3 @@
-./.essl4
-./.essl_www
-cd /mnt/essl_www/radars
-ls
-cd 202506/20250604
-ls
-cd brdy-praha/
-ls
-gedit brdy-praha_2025060418_meta.json 
-./.essl
-cd /mnt/essl/scripts
-ls
-gedit radar_converter.py &
-./.essl4
-./.srv3_essl
-ls
-cd /mnt/srv3_essl/scripts
-ls
-gedit radar_converter.py &
-ls
-cd dealiasing
-ls
-cd radar
-ls
-cd ../../essl/scripts
-ls
-cd radar
-ls
-cd dealiasing/
-ls
-gedit dealias.py 
-./.essl4
-./.essl
-cd /mnt/essl/scripts
-gedit get_radar_shmu.py 
-ls
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/v
-ls
-gedit rad/radar/main.js
-./.radar
-ssh testbed@vpn.essl.org
-ssh -p 22 testbed@vpn.essl.org
-ls
-nano .essl3
-ssh -p 2203 testbed@vpn.essl.org
-cd ESSL
-gedit useful_commands.txt 
-./.essl4
-ssh testbed@64.225.128.8
-./.essl3
-./.essl3
-./.essl4
-./.srv3_essl
-cd /mnt/srv3_essl/work/download_dwd_radar/
-ls
-gedit download_historical_dwd.py &
-ls
-cd ../../scripts
-ls
-cd ../work
-ls
-cd gather_data/
-ls
-cp radar* ../download_dwd_radar/
-cd ../download_dwd_radar/
-ls
-./.srv3
-./.essl3
-./.essl3
-./.essl4
-./.essl
-cd /mnt/essl/work/svrstormsig/
-ls
-cd test
-ls
-cd 202506/20250606/
-ls
-cd Ukraine/
-geeqie
-cd ../Balkans/
-geeqie
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/v
-ls
-gedit rad_dev/radar/main.js rad/radar/main.js
-cd /mnt/srv3_essl_www/v
-ls
-gedit rad/radar/main.js
-dirs="rad rad_pub_com rad_pub_non"; for dir in $dirs; do cp rad/radar/main.js $dir/radar; done;
-./.radar
-cd ESSL
-gedit *
-./.essl4
-./.essl
-cd /mnt/essl
-gedit cron.txt
-./.srv3_essl
-cd /mnt/srv3_essl/scripts
-ls
-gedit get_radar* &
-ls
-cd ~
-./.essl
-cd /mnt/essl/scripts
-gedit get_radar* &
-./.radar
-./.essl3
-cd ESSL
-gedit *
-cd ..
-./.essl4
-./.radar
-./.essl4
-./.essl
-cd /mnt/essl/scripts
-gedit get_radar* &
-gedit radar_converter.py 
-./.essl4
-./.essl3
-./.essl
-cd /mnt/essl/scripts
-./.essl
-cd /mnt/essl/scripts
-gedit radar_converter.py &
-ls
-cd ~/Python
-ls
-rm *.tar
-ls
-python3 gather_nlradar.py 
-./.srv3_essl
-../.srv3_essl
-python3 gather_nlradar.py 
-cd ..
-./.radar
-./.essl3
-./.srv3_essl_www
-cd ESSL
-gedit *
-./.essl3
-./.essl
-./.srv3_essl
-cp /mnt/essl/scripts/radar_converter.py /mnt/srv3_essl/scripts
-cd /mnt/srv3_essl/scripts/
-gedit radar_converter.py &
-ls
-cd ~
-cp -r /mnt/essl/scripts/radar /mnt/srv3_essl/scripts
-cd /mnt/srv3_essl/scripts/radar
-ls
-cd dealiasing/
-ls
-gedit dealias.py 
-cd ../..
-ls
-gedit radar_converter.py &
-gedit testbedutils.py 
-./.essl3
-ls
-git clone git@github.com:displayer-essl/scripts.git
-./.essl4
-./.radar
-cd Python
-ls
-python3 gather_nlradar.py 
-cd Python
-ls
-cd ../ESSL
-ls
-gedit *
-./.essl
-./.srv3_essl
-ls
-cd /mnt/srv3_essl/scripts
-ls
-gedit radar_converter.py &
-ls
-cd radar
-ls
-cd dealiasing/
-ls
-gedit dealias.py 
-lsls
-ls
-cd unet_vda/
-ls
-gedit unet_vda.py 
-ls
-cd ..
-ls
-gedit dealias.py 
-ls
-gedit ../../../work/download_dwd_radar/download_historical_dwd.py 
-./.essl3
-ssh testbed@10.84.38.174
-ssh testbed@64.225.128.8
-nano .radar
-sshfs testbed@64.225.128.8: /mnt/eum4
-mkdir /mnt/eum4
-mkdir -p /mnt/eum4
-cd /mnt
-ls
-sudo mkdir eum4
-ls
-ls -l
-cd ~
-sshfs testbed@64.225.128.8: /mnt/eum4
-cd /mnt
-ls
-ls -l
-sudo chown bramv:bramv eum4
-ls -l
-cd ..
-sshfs testbed@64.225.128.8: /mnt/eum4
-ls
-cd /mnt/eum4
-ls
-cd work/svrstormsig/
-ls
-gedit get_ot.py
-gedit svrstormsig/modrun_config.cfg 
-./.essl4
-./.essl3
-./.essl3
-./.radar
-./.srv3_essl_www
-ls
-cd /mnt/srv3_essl_www/v/dev
-ls
-cd static
-gedit products.txt
-ls
-gedit neatnames.txt 
-./.essl
-cd /mnt/essl/radarsmf
-ls
-./.essl
-cd /mnt/essl/work/radarsmf
-ls
-gedit download_data.py &
-./.eum4
-~/.eum4
-ls
-cd /mnt/eum4/work/svrstormsig/
-ls
-gedit get_ot_dev.py 
-gedit ../../cron.txt
-ls
-cd ../../miniconda3/
-ls
-cd envs/svrstormsig/
-ls
-cd bin
-ls
-cd activate
-ls activate*
-type activate
-echo $PATH
-activate
-echo $ls
-ls
-./.essl3
-./.essl3
-./.eum4
-ls
-gedit /mnt/eum4/cron.txt 
-ls
-cd /mnt/eum4
-ls
-gedit .bashrc
-gedit .bashrc_conda
-ls
-cp .bashrc .bashrc_conda
-ls
-cd work/svrstormsig/
-ls
-gedit run.sh
-ls
-cd ~
-./.eum4
-cd /mnt/eum4
-ls
-cd web
-./.eum4
-ls
-cd /mnt/eum4/work/svrstormsig/
-ls
-gedit get_ot_dev.py 
-ls
-cd svrstormsig/python/new_model/
-ls
-gedit run_write_gfs_trop_temp_to_combined_ncdf.py 
-cd ../..
-ls
-cp modrun_config.cfg /mnt/c/Users/bramv/Downloads
 ./.radar
 gedit ESSL/useful_commands.txt 
 ./.essl3
@@ -1998,3 +1702,299 @@ cd /mnt/srv3_essl_www/v/rad
 ls
 gedit displayer.js
 ls
+./.essl3
+./.eum4
+ls
+cd /mnt/eum4
+cd work/svrstormsig/
+ls
+cd svrstormsig/python/new_model/
+ls
+gedit run_write_severe_storm_post_processing.py 
+ls
+gedit run_write_severe_storm_post_processing.py 
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+ls
+gedit get_eswd_new.py &
+./.essl3
+./.essl4
+ls
+./.essl4
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+gedit grib2maps.py
+gedit grib2maps.py &
+ls
+gedit get_fci.py
+cd ~
+./.radar
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+ls
+gedit grib2maps.py &
+cd ~
+./.essl4
+ls
+cd /mnt/srv3_essl/scripts
+gedit get_fci.py 
+gedit get_gfs.py
+gedit ~/ESSL/useful_commands.txt 
+gedit grib2maps.py &
+./.essl4
+./.essl3
+./.essl4
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+ls
+gedit get_fci.py &
+ls
+cd ~
+nano .eum3
+chmod 755 .eum3
+./.eum3
+cd /mnt
+ls
+ls -al
+sudo chown bramv:bramv eum3
+~/.eum3
+cd eum3
+ls
+cd miniconda3/envs/testbed/lib/python3.12/site-packages/satpy
+ls
+gedit scene.py
+./.essl4
+./.essl3
+sudo mkdir /mnt/eum3
+chmod 755 /mnt/eum3
+sudo chmod 755 /mnt/eum3
+./.essl4
+ls
+cat .radar
+cat .eum4
+cd /mnt/srv3_essl/scripts
+gedit get_fci.py 
+ls
+gedit get_ecmwf.pl
+./.eum3
+cd /mnt/eum3/miniconda3/envs/testbed/lib/python3.12/site-packages/
+ls
+cd satpy
+gedit scene.py &
+./.essl3
+./.essl4
+./.essl4
+./.radar
+./.essl3
+gedit ESSL/useful_commands.txt 
+./.radar
+./.essl3
+./.radar
+gedit ESSL/useful_commands.txt 
+./.radar
+cd /mnt/srv3_essl_www/v/rad_dev
+ls
+gedit observations.php 
+./.essl3
+./.essl4
+./.radar
+gedit ESSL/useful_commands.txt 
+./.essl3
+./.essl
+cd /mnt/essl/scripts
+ls
+gedit get_opera.py 
+cd ~
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+gedit get_opera.py &
+ls
+cp get_opera.py get_opera_archive.py
+gedit get_opera_archive.py
+./.radar_scripts dwd
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+gedit get_opera* &
+./.essl4
+./.essl3
+./.essl3
+./.srv3_essl
+cd /mnt/srv3_essl/scripts
+ls
+gedit get_opera_archive.py &
+./.essl3
+./.essl4
+./.radarsmf
+ls
+./.essl4
+./.radarsmf
+cd /mnt/essl/work/radarsmf
+ls
+python move.py 
+python3 move.py 
+./.radarsmf
+cd /mnt/essl/work/radarsmf
+ls
+python3 move.py 
+./.radar
+./.srv3_essl_www
+cd /mnt/srv3_essl_www/v/rad_dev/radar/static
+ls
+gedit ~/ESSL/useful_commands.txt 
+rsync -v /mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python/marker*.png .
+./.essl4
+gedit ESSL/useful_commands.txt 
+./.radar
+./.essl3
+./.essl
+./.essl4
+./.srv3_essl
+./.srv3_essl_www
+cd /mnt/srv3_essl_www/obs
+cd /mnt/srv3_essl_www/
+ls
+cd ~
+./.essl3
+cd /mnt/srv3_essl/testbed
+cd /mnt/srv3_essl/obs
+cd /mnt/srv3_essl
+ls
+cd scripts
+ls
+rm CIRRUS*
+ls
+gedit get_synopbufr.py &
+cd ..
+ls
+gedit cron.txt
+cd /mnt/srv3_essl/work
+cd synopbufr/
+gedit test_decode_bufr.py &
+cd ../../scripts
+ls
+gedit get_obs.pl 
+ls
+gedit get_zamg_obs.pl 
+./.essl
+cd /mnt/essl
+gedit cron.txt
+cd logs
+ls
+tail -1000 synopbufr_log.txt
+ls
+cd ..
+gedit cron.txt
+cd scripts
+cd ../logs
+ls
+gedit zamg_obs_log.txt
+./.essl
+cd /mnt/essl/scripts
+gedit get_obs_test.pl &
+ls
+gedit ../cron.txt
+ls
+gedit ~/ESSL/useful_commands.txt 
+ls
+cd ~
+file=/mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python/radars_eu.geojson; dir2=/mnt/srv3_essl_www/v; sub=radar/static; 
+cp $file $dir2/rad_dev/$sub/radars_eu.geojson; cp $file $dir2/rad/$sub/radars_eu.geojson; cp $file $dir2/rad_pub_com/$sub/radars_eu.geojson; 
+cp $file $dir2/rad_pub_non/$sub/radars_eu.geojson; cp $dir1/radars_eu.txt /mnt/srv3_essl/scripts/static
+dir1=/mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python; file=$dir1/radars_eu.geojson; dir2=/mnt/srv3_essl_www/v; sub=radar/static; 
+cp $file $dir2/rad_dev/$sub/radars_eu.geojson; cp $file $dir2/rad/$sub/radars_eu.geojson; cp $file $dir2/rad_pub_com/$sub/radars_eu.geojson; 
+cp $file $dir2/rad_pub_non/$sub/radars_eu.geojson; cp $dir1/radars_eu.txt /mnt/srv3_essl/scripts/static
+./.srv3_essl
+cp $file $dir2/rad_pub_non/$sub/radars_eu.geojson; cp $dir1/radars_eu.txt /mnt/srv3_essl/scripts/static
+dir1=/mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python; file=$dir1/radars_eu.geojson; dir2=/mnt/srv3_essl_www/v; sub=radar/static; 
+cp $file $dir2/rad_dev/$sub/radars_eu.geojson; cp $file $dir2/rad/$sub/radars_eu.geojson; cp $file $dir2/rad_pub_com/$sub/radars_eu.geojson; 
+cp $file $dir2/rad_pub_non/$sub/radars_eu.geojson; cp $dir1/radars_eu.txt /mnt/srv3_essl/scripts/static
+./.essl4
+./.essl4
+./.radar
+./.essl3
+./.radar
+./.essl3
+./.essl4
+gedit ESSL/useful_commands.txt 
+./.essl3
+sftp sftp_arpal@135.181.130.183
+ssh sftp_arpal@135.181.130.183
+ssh sftpuser@135.181.130.183
+sftp -P 22 sftp_arpal@135.181.130.183
+ssh sftpuser@135.181.130.183
+sftp sftpuser@135.181.130.183
+./.essl4
+gedit ESSL/useful_commands.txt 
+./.essl4
+sftp sftp_arpal@135.181.130.183
+ls
+nano test.txt
+ls
+scp test.txt sftp_arpal@135.181.130.183:/radar
+sftp test.txt sftp_arpal@135.181.130.183:/radar
+sftp sftpuser@135.181.130.183
+./.essl
+cd /mnt/essl/notes
+ls
+gedit set_up_sftp.txt
+./.essl4
+./.radar
+ls
+./.radar_scripts chmi
+ls
+./.essl3
+./.srv3_essl
+./.srv3_data
+cd /mnt/srv3_essl_www/radars
+ls
+cd 20250915
+ls
+cd 202509
+ls
+cd 20250915
+ls
+cp -rv skalky /mnt/e/radar_data_NLradar/test
+ls
+cd ../../202507/20250730
+cp -rv juvre /mnt/e/radar_data_NLradar/test
+./.essl
+./.radarsmf
+./.essl4
+./.radar_scripts chmi dmi
+gedit .radar_scripts
+./.radar_scripts chmi dmi dhmz
+ls
+ls .*
+./.radar_clutter
+ls
+cd /mnt/essl
+gedit cron.txt
+cd scripts
+gedit get_radars_dev.py 
+ls get_radars*
+./.radar
+./.radar_scripts shmu
+./.radar_clutter
+cd /mnt/essl/scripts
+cp get_radars_dev.py get_radars_dev2.py
+gedit get_radars_dev2.py 
+./.essl3
+./.radarsmf
+./.essl4
+./.radar_scripts dmi
+./.radar_scripts dmi shmu dhmz chmi
+./.radarsmf
+./.radar
+./.radar_scripts
+./.radarsmf
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+~/.radarsmf
+./.essl4
+./.radar
+./.radar_scripts dmi
+./.essl4
+./.essl
+cd /mnt/essl/scripts
+ls
+gedit get_gld.pl &

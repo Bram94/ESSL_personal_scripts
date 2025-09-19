@@ -1,6 +1,7 @@
 import os
 import shutil
 import tarfile
+import numpy as np
 
 
 
@@ -66,8 +67,7 @@ if 0:
 			
 			
 if 0:
-	dates = ['20100712', '20100714', '20140609', '20160623', '20190809']
-	dates = ['20190604']
+	dates = ['20100712', '20100714', '20140125', '20140609', '20160623', '20180817', '20190604', '20190605', '20190809', '20210619', '20211020', '20221023', '20240709']
 	directory = '/mnt/e/radar_data_NLradar/KMI'
 	for date in dates:
 		date_dir = directory+'/'+date
@@ -75,12 +75,12 @@ if 0:
 		for folder in folders:
 			if folder[:2] == 'be':
 				radar = 'wideumont'
-				if not folder[-1] == '3':
+				if folder[-1] == '2':
 					continue
+				dataset = 'precip' if folder[-1] == '1' else ''
 			elif any(r in folder for r in ('Jabbeke', 'Zaventem', 'Wideumont', 'Helchteren')):
 				radar = folder.split('_')[0].lower()
-				if folder[-1] == 'Z':
-					continue
+				dataset = 'precip' if folder[-1] == 'Z' else ''
 			else:
 				continue
 			radar_dir = date_dir+'/'+folder
@@ -88,16 +88,17 @@ if 0:
 			with tarfile.TarFile(tar_name, 'w') as f:
 				files = os.listdir(radar_dir)
 				for file in files:
-					print(file)
+					print(os.path.basename(radar_dir), file)
 					f.add(radar_dir+'/'+file, file)
 					
-			save_dir = f'{save_basedir}/kmi/{date[:6]}/{date}/{radar}'
+			save_dir = f'{save_basedir}/kmi/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
 			os.makedirs(save_dir, exist_ok=True)
 			shutil.copyfile(tar_name, save_dir+'/'+tar_name)
 			os.remove(tar_name)
 		
 
-if 1:
+if 0:
 	dates = ['20100524', '20100712', '20100714', '20140609', '20160623', '20190604', '20230718', '20240609', '20240621', '20240630', '20240824']
 	dates = ['20150505', '20150513', '20190809']
 	dates = ['20180923']
@@ -105,20 +106,30 @@ if 1:
 	directory = '/mnt/e/radar_data_NLradar/DWD'
 	for date in dates:
 		date_dir = directory+'/'+date
-		radars = [j[:-2] for j in os.listdir(date_dir) if j.endswith('_V')]
-		for radar in radars:
-			radar_dir = date_dir+'/'+radar+'_V'
+		radar_datasets = sorted(os.listdir(date_dir))
+		for i, rd in enumerate(radar_datasets):
+			if not '_' in rd: continue
+			radar, dataset = rd.split('_')
 			radar = radar.lower()
+			dataset = 'precip' if dataset == 'Z' else ''
+			
+			rd_dir = date_dir+'/'+rd
 			tar_name = f'{date}_{radar}.tar'
 			with tarfile.TarFile(tar_name, 'w') as f:
-				for hour in os.listdir(radar_dir):
-					hour_dir = radar_dir+'/'+hour
+				for hour in os.listdir(rd_dir):
+					hour_dir = rd_dir+'/'+hour
+					files = os.listdir(hour_dir)
+					file_types = ['hd5' if 'hd5' in f else 'buf' for f in files]
+					types, counts = np.unique(file_types, return_counts=True)
+					most_common_type = types[np.argmax(counts)]
+					print(types, counts)
 					for file in os.listdir(hour_dir):
-						if not 'hd5' in file: continue
+						if not most_common_type in file: continue
 						print(file)
 						f.add(hour_dir+'/'+file, file)
 					
-			save_dir = f'{save_basedir}/dwd/{date[:6]}/{date}/{radar}'
+			save_dir = f'{save_basedir}/dwd/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
 			os.makedirs(save_dir, exist_ok=True)
 			shutil.copyfile(tar_name, save_dir+'/'+tar_name)
 			os.remove(tar_name)
@@ -132,20 +143,21 @@ if 0:
 		radar_datasets = sorted(os.listdir(date_dir))
 		for i, rd in enumerate(radar_datasets):
 			radar, dataset = rd.split('_')
+			dataset = 'precip' if dataset == 'Z' else ''
 			rd_dir = date_dir+'/'+rd
 			radar = radar.lower()
 			tar_name = f'{date}_{radar}.tar'
-			with tarfile.TarFile(tar_name, 'a') as f:
+			with tarfile.TarFile(tar_name, 'w') as f:
 				files = os.listdir(rd_dir)
 				for file in files:
-					print(file)
+					print(os.path.basename(rd_dir), file)
 					f.add(rd_dir+'/'+file, file)
 					
-			if i == len(radar_datasets)-1 or radar_datasets[i+1].split('_')[0].lower() != radar:
-				save_dir = f'{save_basedir}/dmi/{date[:6]}/{date}/{radar}'
-				os.makedirs(save_dir, exist_ok=True)
-				shutil.copyfile(tar_name, save_dir+'/'+tar_name)
-				os.remove(tar_name)
+			save_dir = f'{save_basedir}/dmi/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
+			os.makedirs(save_dir, exist_ok=True)
+			shutil.copyfile(tar_name, save_dir+'/'+tar_name)
+			os.remove(tar_name)
 		
 
 if 0:		
@@ -216,7 +228,7 @@ if 0:
 			os.remove(tar_name)
 			
 			
-if 0:		
+if 1:		
 	dates = ['20240621', '20240630', '20240711']
 	dates = ['20230826', '20230827']
 	directory = '/mnt/e/radar_data_NLradar/IMGW'
@@ -225,20 +237,21 @@ if 0:
 		radar_datasets = sorted(os.listdir(date_dir))
 		for i, rd in enumerate(radar_datasets):
 			radar, dataset = rd.split('_')
+			dataset = 'precip' if dataset == 'Z' else ''
 			rd_dir = date_dir+'/'+rd
 			radar = radar.lower()
 			tar_name = f'{date}_{radar}.tar'
-			with tarfile.TarFile(tar_name, 'a') as f:
+			with tarfile.TarFile(tar_name, 'w') as f:
 				files = os.listdir(rd_dir)
 				for file in files:
-					print(file)
+					print(os.path.basename(rd_dir), file)
 					f.add(rd_dir+'/'+file, file)
 					
-			if i == len(radar_datasets)-1 or radar_datasets[i+1].split('_')[0].lower() != radar:
-				save_dir = f'{save_basedir}/imgw/{date[:6]}/{date}/{radar}'
-				os.makedirs(save_dir, exist_ok=True)
-				shutil.copyfile(tar_name, save_dir+'/'+tar_name)
-				os.remove(tar_name) 
+			save_dir = f'{save_basedir}/imgw/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
+			os.makedirs(save_dir, exist_ok=True)
+			shutil.copyfile(tar_name, save_dir+'/'+tar_name)
+			os.remove(tar_name)
 				
 				
 if 0:
@@ -287,22 +300,48 @@ if 0:
 			
 			
 if 0:
-	dates = ['20240609', '20230713', '20210624', '20230718']
+	dates = ['20170710', '20210624', '20220818', '20230713', '20230718', '20230826', '20240609']
 	directory = '/mnt/e/radar_data_NLradar/Austro Control'
 	for date in dates:
 		date_dir = directory+'/'+date
-		radars = [j[:-2] for j in os.listdir(date_dir) if j.endswith('_V')]
-		for radar in radars:
-			radar_dir = date_dir+'/'+radar+'_V'
+		radar_datasets = sorted(os.listdir(date_dir))
+		for i, rd in enumerate(radar_datasets):
+			radar, dataset = rd.split('_')
+			dataset = 'precip' if dataset == 'Z' else ''
+			rd_dir = date_dir+'/'+rd
 			radar = radar.lower()
 			tar_name = f'{date}_{radar}.tar'
 			with tarfile.TarFile(tar_name, 'w') as f:
-				files = os.listdir(radar_dir)
+				files = os.listdir(rd_dir)
 				for file in files:
-					print(file)
-					f.add(radar_dir+'/'+file, file)
+					print(os.path.basename(rd_dir), file)
+					f.add(rd_dir+'/'+file, file)
 					
-			save_dir = f'{save_basedir}/austrocontrol/{date[:6]}/{date}/{radar}'
+			save_dir = f'{save_basedir}/austrocontrol/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
+			os.makedirs(save_dir, exist_ok=True)
+			
+			
+if 0:
+	dates = ['20140125', '20211020', '20211021', '20211031', '20221023', '20231101', '20231102', '20240926']
+	directory = '/mnt/e/radar_data_NLradar/UKMO'
+	for date in dates:
+		date_dir = directory+'/'+date
+		radar_datasets = sorted(os.listdir(date_dir))
+		for i, rd in enumerate(radar_datasets):
+			radar, dataset = rd.split('_')
+			dataset = 'precip' if dataset == 'Z' else ''
+			rd_dir = date_dir+'/'+rd
+			radar = radar.lower()
+			tar_name = f'{date}_{radar}.tar'
+			with tarfile.TarFile(tar_name, 'w') as f:
+				files = os.listdir(rd_dir)
+				for file in files:
+					print(os.path.basename(rd_dir), file)
+					f.add(rd_dir+'/'+file, file)
+					
+			save_dir = f'{save_basedir}/ukmo/{date[:6]}/{date}/{radar}'+'/precip'*(dataset == 'precip')
+			print(save_dir)
 			os.makedirs(save_dir, exist_ok=True)
 			shutil.copyfile(tar_name, save_dir+'/'+tar_name)
 			os.remove(tar_name)
