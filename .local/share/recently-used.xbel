@@ -29,7 +29,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/Python/move_data_to_server.py" added="2025-01-13T12:07:15.625773Z" modified="2025-09-19T12:17:57.489407Z" visited="2025-01-13T12:07:15.625773Z">
+  <bookmark href="file:///home/bramv/Python/move_data_to_server.py" added="2025-01-13T12:07:15.625773Z" modified="2025-10-05T16:26:32.498138Z" visited="2025-01-13T12:07:15.625773Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -37,12 +37,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T12:17:57.489405Z" count="271"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T16:26:32.498136Z" count="449"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/ESSL/useful_commands.txt" added="2025-01-13T12:22:34.522655Z" modified="2025-09-17T11:00:35.252062Z" visited="2025-01-13T12:22:34.522656Z">
+  <bookmark href="file:///home/bramv/ESSL/useful_commands.txt" added="2025-01-13T12:22:34.522655Z" modified="2025-10-04T10:59:12.437097Z" visited="2025-01-13T12:22:34.522656Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -50,7 +50,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-17T11:00:35.252061Z" count="103"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-04T10:59:12.437095Z" count="117"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -445,7 +445,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_meteofrance.py" added="2025-01-23T13:23:14.268894Z" modified="2025-08-01T18:19:52.199733Z" visited="2025-01-23T13:23:14.268895Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_meteofrance.py" added="2025-01-23T13:23:14.268894Z" modified="2025-10-03T10:33:51.776680Z" visited="2025-01-23T13:23:14.268895Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -453,7 +453,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T18:19:52.199730Z" count="132"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:51.776678Z" count="138"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -614,7 +614,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_meta.py" added="2025-02-05T17:14:34.505274Z" modified="2025-05-13T09:02:10.063722Z" visited="2025-02-05T17:14:34.505274Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_meta.py" added="2025-02-05T17:14:34.505274Z" modified="2025-09-23T09:55:26.813310Z" visited="2025-02-05T17:14:34.505274Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -622,7 +622,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T09:02:10.063721Z" count="32"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.813309Z" count="33"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -835,7 +835,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/combine_filters_allplot.py" added="2025-02-08T11:18:51.010158Z" modified="2025-05-13T09:02:10.062482Z" visited="2025-02-08T11:18:51.010159Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/combine_filters_allplot.py" added="2025-02-08T11:18:51.010158Z" modified="2025-09-23T09:55:26.758639Z" visited="2025-02-08T11:18:51.010159Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -843,7 +843,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T09:02:10.062481Z" count="43"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.758638Z" count="44"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -991,7 +991,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_dmi.py" added="2025-02-19T15:00:22.436111Z" modified="2025-09-19T09:10:03.242400Z" visited="2025-02-19T15:00:22.436111Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_dmi.py" added="2025-02-19T15:00:22.436111Z" modified="2025-10-03T10:32:42.569793Z" visited="2025-02-19T15:00:22.436111Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -999,12 +999,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T09:10:03.242396Z" count="132"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:32:42.569791Z" count="142"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_knmi.py" added="2025-02-19T15:00:22.448156Z" modified="2025-08-01T19:28:08.100783Z" visited="2025-02-19T15:00:22.448156Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_knmi.py" added="2025-02-19T15:00:22.448156Z" modified="2025-10-03T10:33:43.493851Z" visited="2025-02-19T15:00:22.448156Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1012,12 +1012,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T19:28:08.100781Z" count="96"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:43.493849Z" count="103"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_imgw.py" added="2025-02-19T15:00:22.454766Z" modified="2025-09-19T09:16:01.653072Z" visited="2025-02-19T15:00:22.454766Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_imgw.py" added="2025-02-19T15:00:22.454766Z" modified="2025-10-03T10:33:37.960219Z" visited="2025-02-19T15:00:22.454766Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1025,12 +1025,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T09:16:01.653071Z" count="103"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:37.960216Z" count="107"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_fmi.py" added="2025-02-19T15:00:22.458048Z" modified="2025-08-01T19:27:37.758308Z" visited="2025-02-19T15:00:22.458048Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_fmi.py" added="2025-02-19T15:00:22.458048Z" modified="2025-10-03T10:33:15.934346Z" visited="2025-02-19T15:00:22.458048Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1038,12 +1038,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T19:27:37.758306Z" count="93"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:15.934344Z" count="99"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_dwd.py" added="2025-02-19T15:00:22.460885Z" modified="2025-09-19T08:55:03.258539Z" visited="2025-02-19T15:00:22.460885Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_dwd.py" added="2025-02-19T15:00:22.460885Z" modified="2025-10-03T10:32:53.123518Z" visited="2025-02-19T15:00:22.460885Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1051,7 +1051,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:55:03.258538Z" count="301"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:32:53.123516Z" count="307"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1420,7 +1420,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_combi.py" added="2025-02-27T14:40:18.701689Z" modified="2025-05-13T09:02:10.148479Z" visited="2025-02-27T14:40:18.701689Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_combi.py" added="2025-02-27T14:40:18.701689Z" modified="2025-09-23T09:55:26.833894Z" visited="2025-02-27T14:40:18.701689Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1428,12 +1428,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T09:02:10.148478Z" count="16"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.833893Z" count="17"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_composites.py" added="2025-02-27T14:40:18.710646Z" modified="2025-05-19T13:19:38.319583Z" visited="2025-02-27T14:40:18.710646Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_composites.py" added="2025-02-27T14:40:18.710646Z" modified="2025-09-23T09:59:23.556916Z" visited="2025-02-27T14:40:18.710646Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1441,12 +1441,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-19T13:19:38.319582Z" count="88"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:59:23.556914Z" count="92"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_individual.py" added="2025-02-27T14:40:18.712416Z" modified="2025-05-13T09:02:10.189086Z" visited="2025-02-27T14:40:18.712416Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_individual.py" added="2025-02-27T14:40:18.712416Z" modified="2025-09-23T09:55:26.856900Z" visited="2025-02-27T14:40:18.712416Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1454,12 +1454,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T09:02:10.189084Z" count="8"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.856899Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_remove.py" added="2025-02-27T14:40:18.714544Z" modified="2025-05-13T13:01:02.228933Z" visited="2025-02-27T14:40:18.714544Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter_remove.py" added="2025-02-27T14:40:18.714544Z" modified="2025-09-23T09:55:26.858742Z" visited="2025-02-27T14:40:18.714544Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1467,12 +1467,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T13:01:02.228930Z" count="51"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.858741Z" count="52"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter.py" added="2025-02-27T14:40:18.717410Z" modified="2025-05-16T08:46:45.691633Z" visited="2025-02-27T14:40:18.717410Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_tfilter.py" added="2025-02-27T14:40:18.717410Z" modified="2025-09-23T12:43:33.524847Z" visited="2025-02-27T14:40:18.717410Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1480,7 +1480,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-16T08:46:45.691629Z" count="34"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T12:43:33.524735Z" count="38"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1914,7 +1914,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/radar_tfilter_composites.py" added="2025-03-04T11:33:14.349114Z" modified="2025-05-12T09:00:17.113088Z" visited="2025-03-04T11:33:14.349114Z">
+  <bookmark href="file:///mnt/essl/scripts/radar_tfilter_composites.py" added="2025-03-04T11:33:14.349114Z" modified="2025-09-23T09:50:01.285261Z" visited="2025-03-04T11:33:14.349114Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1922,7 +1922,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-12T09:00:17.113087Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:50:01.285260Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1979,7 +1979,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_functions.py" added="2025-03-04T11:35:01.979732Z" modified="2025-07-24T16:26:57.797859Z" visited="2025-03-04T11:35:01.979732Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_functions.py" added="2025-03-04T11:35:01.979732Z" modified="2025-09-27T10:01:57.087758Z" visited="2025-03-04T11:35:01.979732Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -1987,7 +1987,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-07-24T16:26:57.797857Z" count="26"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-27T10:01:57.087757Z" count="27"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2005,7 +2005,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter.py" added="2025-03-04T11:35:01.999896Z" modified="2025-05-13T12:59:40.584304Z" visited="2025-03-04T11:35:01.999897Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter.py" added="2025-03-04T11:35:01.999896Z" modified="2025-09-19T20:58:27.117955Z" visited="2025-03-04T11:35:01.999897Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2013,12 +2013,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T12:59:40.584302Z" count="36"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T20:58:27.117952Z" count="43"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_combi.py" added="2025-03-04T11:35:02.001007Z" modified="2025-05-09T11:53:43.427825Z" visited="2025-03-04T11:35:02.001007Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_combi.py" added="2025-03-04T11:35:02.001007Z" modified="2025-09-19T20:10:53.455355Z" visited="2025-03-04T11:35:02.001007Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2026,12 +2026,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-09T11:53:43.427824Z" count="12"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T20:10:53.455353Z" count="14"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_composites.py" added="2025-03-04T11:35:02.002377Z" modified="2025-05-09T11:53:43.434812Z" visited="2025-03-04T11:35:02.002377Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_composites.py" added="2025-03-04T11:35:02.002377Z" modified="2025-09-19T20:10:53.516626Z" visited="2025-03-04T11:35:02.002377Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2039,12 +2039,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-09T11:53:43.434811Z" count="39"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T20:10:53.516624Z" count="41"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_individual.py" added="2025-03-04T11:35:02.029717Z" modified="2025-05-09T11:53:43.520954Z" visited="2025-03-04T11:35:02.029717Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_individual.py" added="2025-03-04T11:35:02.029717Z" modified="2025-09-19T20:10:53.560716Z" visited="2025-03-04T11:35:02.029717Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2052,12 +2052,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-09T11:53:43.520952Z" count="12"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T20:10:53.560715Z" count="14"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_remove.py" added="2025-03-04T11:35:02.039505Z" modified="2025-05-13T13:02:29.740204Z" visited="2025-03-04T11:35:02.039505Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_tfilter_remove.py" added="2025-03-04T11:35:02.039505Z" modified="2025-09-19T21:22:47.367969Z" visited="2025-03-04T11:35:02.039505Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2065,7 +2065,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T13:02:29.740201Z" count="11"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T21:22:47.367966Z" count="27"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2083,7 +2083,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/cron.txt" added="2025-03-04T11:40:02.617631Z" modified="2025-09-14T17:24:30.602728Z" visited="2025-03-04T11:40:02.617631Z">
+  <bookmark href="file:///mnt/srv3_essl/cron.txt" added="2025-03-04T11:40:02.617631Z" modified="2025-09-19T20:13:31.942723Z" visited="2025-03-04T11:40:02.617631Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -2091,7 +2091,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-14T17:24:30.602726Z" count="35"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T20:13:31.942722Z" count="36"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2564,7 +2564,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/radar_converter_dev.py" added="2025-03-21T09:40:54.089413Z" modified="2025-09-19T08:54:46.197445Z" visited="2025-03-21T09:40:54.089413Z">
+  <bookmark href="file:///mnt/essl/scripts/radar_converter_dev.py" added="2025-03-21T09:40:54.089413Z" modified="2025-10-03T10:31:25.986791Z" visited="2025-03-21T09:40:54.089413Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2572,7 +2572,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.197445Z" count="413"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.986790Z" count="432"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2759,7 +2759,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_estea.py" added="2025-03-26T11:51:34.098421Z" modified="2025-08-01T19:27:27.935841Z" visited="2025-03-26T11:51:34.098422Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_estea.py" added="2025-03-26T11:51:34.098421Z" modified="2025-10-03T10:33:01.874579Z" visited="2025-03-26T11:51:34.098422Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2767,12 +2767,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T19:27:27.935839Z" count="132"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:01.874577Z" count="138"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_geosphere.py" added="2025-03-26T13:45:20.464280Z" modified="2025-08-01T19:27:46.386047Z" visited="2025-03-26T13:45:20.464280Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_geosphere.py" added="2025-03-26T13:45:20.464280Z" modified="2025-10-03T10:33:30.686964Z" visited="2025-03-26T13:45:20.464280Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2780,7 +2780,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T19:27:46.386045Z" count="87"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:33:30.686961Z" count="94"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2915,7 +2915,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_chmi.py" added="2025-03-28T13:33:45.913120Z" modified="2025-09-18T17:12:00.341288Z" visited="2025-03-28T13:33:45.913120Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_chmi.py" added="2025-03-28T13:33:45.913120Z" modified="2025-10-03T10:32:06.979279Z" visited="2025-03-28T13:33:45.913120Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -2923,12 +2923,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T17:12:00.341286Z" count="73"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:32:06.979277Z" count="79"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.radar" added="2025-03-29T15:16:00.133771Z" modified="2025-08-21T12:42:27.656255Z" visited="2025-03-29T15:16:00.133772Z">
+  <bookmark href="file:///home/bramv/.radar" added="2025-03-29T15:16:00.133771Z" modified="2025-10-03T08:01:33.613898Z" visited="2025-03-29T15:16:00.133772Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -2936,7 +2936,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-21T12:42:27.656254Z" count="25"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:01:33.613897Z" count="27"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3500,7 +3500,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.essl" added="2025-03-31T09:43:26.764612Z" modified="2025-05-22T14:52:21.122752Z" visited="2025-03-31T09:43:26.764613Z">
+  <bookmark href="file:///home/bramv/.essl" added="2025-03-31T09:43:26.764612Z" modified="2025-09-25T08:49:37.668628Z" visited="2025-03-31T09:43:26.764613Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -3508,7 +3508,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-22T14:52:21.122751Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-25T08:49:37.668627Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3604,7 +3604,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radars.py" added="2025-04-03T09:41:09.986392Z" modified="2025-09-19T08:54:46.072608Z" visited="2025-04-03T09:41:09.986393Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radars.py" added="2025-04-03T09:41:09.986392Z" modified="2025-10-03T10:31:25.729527Z" visited="2025-04-03T09:41:09.986393Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -3612,7 +3612,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.072605Z" count="190"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.729525Z" count="203"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -4345,7 +4345,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_shmu.py" added="2025-04-08T10:43:25.220382Z" modified="2025-09-18T17:12:00.314242Z" visited="2025-04-08T10:43:25.220383Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_shmu.py" added="2025-04-08T10:43:25.220382Z" modified="2025-10-03T10:34:29.778312Z" visited="2025-04-08T10:43:25.220383Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -4353,12 +4353,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T17:12:00.314241Z" count="173"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:34:29.778310Z" count="178"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_dhmz.py" added="2025-04-08T13:22:17.369740Z" modified="2025-09-18T17:12:00.255424Z" visited="2025-04-08T13:22:17.369741Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_dhmz.py" added="2025-04-08T13:22:17.369740Z" modified="2025-10-03T10:32:31.512560Z" visited="2025-04-08T13:22:17.369741Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -4366,12 +4366,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T17:12:00.255422Z" count="73"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:32:31.512558Z" count="79"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_romania.py" added="2025-04-08T15:44:32.378686Z" modified="2025-08-01T19:28:20.285966Z" visited="2025-04-08T15:44:32.378686Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_romania.py" added="2025-04-08T15:44:32.378686Z" modified="2025-10-03T10:34:11.548883Z" visited="2025-04-08T15:44:32.378686Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -4379,7 +4379,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T19:28:20.285964Z" count="72"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:34:11.548880Z" count="77"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -4436,7 +4436,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radars_dev.py" added="2025-04-10T10:41:15.942399Z" modified="2025-09-19T08:54:46.078475Z" visited="2025-04-10T10:41:15.942399Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radars_dev.py" added="2025-04-10T10:41:15.942399Z" modified="2025-10-03T10:31:25.764953Z" visited="2025-04-10T10:41:15.942399Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -4444,7 +4444,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.078474Z" count="95"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.764951Z" count="106"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -5125,7 +5125,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radarstyle.css" added="2025-05-09T09:45:35.153847Z" modified="2025-09-18T20:01:15.988901Z" visited="2025-05-09T09:45:35.153848Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radarstyle.css" added="2025-05-09T09:45:35.153847Z" modified="2025-10-02T18:50:53.830526Z" visited="2025-05-09T09:45:35.153848Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/css"/>
@@ -5133,12 +5133,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:15.988900Z" count="290"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:53.830525Z" count="309"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radar_query.php" added="2025-05-09T09:45:35.201303Z" modified="2025-09-18T20:01:16.138556Z" visited="2025-05-09T09:45:35.201303Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radar_query.php" added="2025-05-09T09:45:35.201303Z" modified="2025-10-05T11:46:19.825855Z" visited="2025-05-09T09:45:35.201303Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-php"/>
@@ -5146,12 +5146,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:16.138555Z" count="746"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T11:46:19.825854Z" count="829"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radar-demo.html" added="2025-05-09T09:45:35.284877Z" modified="2025-09-18T20:01:16.193793Z" visited="2025-05-09T09:45:35.284877Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/radar-demo.html" added="2025-05-09T09:45:35.284877Z" modified="2025-10-02T18:50:54.011240Z" visited="2025-05-09T09:45:35.284877Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -5159,12 +5159,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:16.193792Z" count="236"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:54.011238Z" count="255"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_functions.py" added="2025-05-09T12:22:22.982427Z" modified="2025-05-13T09:02:10.139535Z" visited="2025-05-09T12:22:22.982427Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/radar_functions.py" added="2025-05-09T12:22:22.982427Z" modified="2025-09-23T09:55:26.811437Z" visited="2025-05-09T12:22:22.982427Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5172,7 +5172,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-13T09:02:10.139533Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:55:26.811436Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -5918,7 +5918,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_meteofrance_dev.py" added="2025-05-12T09:06:46.557463Z" modified="2025-08-01T17:52:09.018200Z" visited="2025-05-12T09:06:46.557463Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_meteofrance_dev.py" added="2025-05-12T09:06:46.557463Z" modified="2025-10-03T10:31:25.517253Z" visited="2025-05-12T09:06:46.557463Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5926,7 +5926,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T17:52:09.018199Z" count="19"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.517252Z" count="24"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -5944,7 +5944,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter_composites.py" added="2025-05-15T14:32:28.171851Z" modified="2025-05-15T14:59:18.985015Z" visited="2025-05-15T14:32:28.171851Z">
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter_composites.py" added="2025-05-15T14:32:28.171851Z" modified="2025-09-23T09:51:58.175078Z" visited="2025-05-15T14:32:28.171851Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5952,12 +5952,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-15T14:59:18.985013Z" count="31"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:51:58.175075Z" count="34"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter.py" added="2025-05-15T16:12:03.380264Z" modified="2025-05-15T16:13:43.411955Z" visited="2025-05-15T16:12:03.380265Z">
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter.py" added="2025-05-15T16:12:03.380264Z" modified="2025-09-23T09:53:51.477780Z" visited="2025-05-15T16:12:03.380265Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5965,12 +5965,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-15T16:13:43.411953Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:53:51.477777Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/work/radarsmf/move.py" added="2025-05-19T10:19:17.243177Z" modified="2025-09-19T08:27:52.849917Z" visited="2025-05-19T10:19:17.243178Z">
+  <bookmark href="file:///mnt/essl/work/radarsmf/move.py" added="2025-05-19T10:19:17.243177Z" modified="2025-10-05T11:00:33.832680Z" visited="2025-05-19T10:19:17.243178Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5978,12 +5978,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:27:52.849915Z" count="39"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T11:00:33.832678Z" count="57"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/move_to_waymel.py" added="2025-05-19T11:44:42.759324Z" modified="2025-05-20T09:27:04.666008Z" visited="2025-05-19T11:44:42.759325Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radarfilter/move_to_waymel.py" added="2025-05-19T11:44:42.759324Z" modified="2025-09-23T10:21:17.319090Z" visited="2025-05-19T11:44:42.759325Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -5991,7 +5991,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-05-20T09:27:04.666007Z" count="34"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T10:21:17.319089Z" count="37"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6152,7 +6152,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/cases.txt" added="2025-05-23T10:24:04.488759Z" modified="2025-09-18T20:01:15.990309Z" visited="2025-05-23T10:24:04.488760Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/cases.txt" added="2025-05-23T10:24:04.488759Z" modified="2025-10-05T12:49:32.641212Z" visited="2025-05-23T10:24:04.488760Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -6160,12 +6160,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:15.990308Z" count="284"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T12:49:32.641211Z" count="387"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/cases.html" added="2025-05-26T11:52:42.110026Z" modified="2025-09-18T20:01:16.186471Z" visited="2025-05-26T11:52:42.110026Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/cases.html" added="2025-05-26T11:52:42.110026Z" modified="2025-10-02T18:50:54.013667Z" visited="2025-05-26T11:52:42.110026Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -6173,7 +6173,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:16.186470Z" count="184"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:54.013666Z" count="203"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6191,7 +6191,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/help.html" added="2025-05-26T12:31:25.797058Z" modified="2025-09-18T20:01:16.196078Z" visited="2025-05-26T12:31:25.797058Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/help.html" added="2025-05-26T12:31:25.797058Z" modified="2025-10-02T18:50:54.016021Z" visited="2025-05-26T12:31:25.797058Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -6199,12 +6199,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:16.196076Z" count="283"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:54.016020Z" count="302"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/getdata.js" added="2025-05-31T11:56:15.523192Z" modified="2025-09-18T20:06:32.099423Z" visited="2025-05-31T11:56:15.523193Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/getdata.js" added="2025-05-31T11:56:15.523192Z" modified="2025-10-02T18:50:53.914709Z" visited="2025-05-31T11:56:15.523193Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
@@ -6212,12 +6212,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:06:32.099421Z" count="499"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:53.914704Z" count="531"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/colors.js" added="2025-05-31T11:56:20.948206Z" modified="2025-09-18T20:48:28.525812Z" visited="2025-05-31T11:56:20.948207Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/colors.js" added="2025-05-31T11:56:20.948206Z" modified="2025-10-02T18:50:53.893215Z" visited="2025-05-31T11:56:20.948207Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
@@ -6225,12 +6225,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:48:28.525808Z" count="743"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:53.893214Z" count="762"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/work/radarsmf/download_data.py" added="2025-05-31T12:30:05.860638Z" modified="2025-09-19T08:27:52.747716Z" visited="2025-05-31T12:30:05.860639Z">
+  <bookmark href="file:///mnt/essl/work/radarsmf/download_data.py" added="2025-05-31T12:30:05.860638Z" modified="2025-10-05T14:44:06.294874Z" visited="2025-05-31T12:30:05.860639Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6238,20 +6238,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:27:52.747715Z" count="27"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///mnt/essl/work/radarsmf/extract_incomplete_tars.py" added="2025-05-31T12:30:05.959174Z" modified="2025-09-19T08:27:52.812582Z" visited="2025-05-31T12:30:05.959175Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-python"/>
-        <bookmark:groups>
-          <bookmark:group>gedit</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:27:52.812581Z" count="21"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T14:44:06.294872Z" count="148"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6295,7 +6282,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_pub_com/radar/radar_query.php" added="2025-06-03T09:27:55.834244Z" modified="2025-06-03T09:29:07.995294Z" visited="2025-06-03T09:27:55.834244Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_pub_com/radar/radar_query.php" added="2025-06-03T09:27:55.834244Z" modified="2025-10-02T11:54:11.455689Z" visited="2025-06-03T09:27:55.834244Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-php"/>
@@ -6303,7 +6290,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-03T09:29:07.995292Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T11:54:11.455686Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6399,7 +6386,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar/dealiasing/unet_vda/unet_vda.py" added="2025-06-10T09:52:05.351859Z" modified="2025-06-10T10:09:47.824997Z" visited="2025-06-10T09:52:05.351859Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar/dealiasing/unet_vda/unet_vda.py" added="2025-06-10T09:52:05.351859Z" modified="2025-10-02T09:07:52.159319Z" visited="2025-06-10T09:52:05.351859Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6407,7 +6394,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-10T10:09:47.824995Z" count="6"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T09:07:52.159317Z" count="31"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6802,7 +6789,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_clutter_map.py" added="2025-07-14T10:06:58.160027Z" modified="2025-09-18T12:16:13.730452Z" visited="2025-07-14T10:06:58.160028Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_clutter_map.py" added="2025-07-14T10:06:58.160027Z" modified="2025-10-03T10:31:25.562785Z" visited="2025-07-14T10:06:58.160028Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6810,7 +6797,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T12:16:13.730450Z" count="299"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.562784Z" count="302"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6828,7 +6815,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_shmu_dev.py" added="2025-07-14T16:45:43.443327Z" modified="2025-09-18T17:12:00.317241Z" visited="2025-07-14T16:45:43.443327Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_shmu_dev.py" added="2025-07-14T16:45:43.443327Z" modified="2025-10-03T10:31:25.721682Z" visited="2025-07-14T16:45:43.443327Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6836,12 +6823,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T17:12:00.317240Z" count="72"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.721680Z" count="75"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_clutter_map_dev.py" added="2025-07-16T09:49:31.239812Z" modified="2025-09-18T11:32:43.508339Z" visited="2025-07-16T09:49:31.239812Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_clutter_map_dev.py" added="2025-07-16T09:49:31.239812Z" modified="2025-10-03T10:31:25.570077Z" visited="2025-07-16T09:49:31.239812Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6849,7 +6836,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T11:32:43.508336Z" count="230"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.570076Z" count="233"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -6867,7 +6854,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_dwd_dev.py" added="2025-07-16T20:16:53.225572Z" modified="2025-09-19T08:55:03.255354Z" visited="2025-07-16T20:16:53.225572Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_dwd_dev.py" added="2025-07-16T20:16:53.225572Z" modified="2025-10-03T10:31:25.483514Z" visited="2025-07-16T20:16:53.225572Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6875,12 +6862,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:55:03.255352Z" count="15"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.483513Z" count="18"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_chmi_dev.py" added="2025-07-16T20:38:57.633398Z" modified="2025-09-18T17:12:00.344798Z" visited="2025-07-16T20:38:57.633398Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_chmi_dev.py" added="2025-07-16T20:38:57.633398Z" modified="2025-10-03T10:31:25.464639Z" visited="2025-07-16T20:38:57.633398Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6888,12 +6875,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T17:12:00.344797Z" count="15"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.464637Z" count="18"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_geosphere_dev.py" added="2025-07-16T20:38:57.698712Z" modified="2025-08-01T17:52:08.927310Z" visited="2025-07-16T20:38:57.698712Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_geosphere_dev.py" added="2025-07-16T20:38:57.698712Z" modified="2025-10-03T10:31:25.500595Z" visited="2025-07-16T20:38:57.698712Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6901,12 +6888,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T17:52:08.927309Z" count="11"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.500592Z" count="14"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_estea_dev.py" added="2025-07-16T21:33:27.614289Z" modified="2025-08-01T17:52:08.845586Z" visited="2025-07-16T21:33:27.614290Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_estea_dev.py" added="2025-07-16T21:33:27.614289Z" modified="2025-10-03T10:31:25.491301Z" visited="2025-07-16T21:33:27.614290Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6914,12 +6901,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T17:52:08.845585Z" count="18"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.491300Z" count="21"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/scripts/radar_converter.py" added="2025-07-16T21:37:37.094397Z" modified="2025-09-19T08:54:46.117858Z" visited="2025-07-16T21:37:37.094397Z">
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_converter.py" added="2025-07-16T21:37:37.094397Z" modified="2025-10-05T12:14:28.345182Z" visited="2025-07-16T21:37:37.094397Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6927,12 +6914,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.117857Z" count="157"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T12:14:28.345180Z" count="568"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_romania_dev.py" added="2025-07-17T17:48:26.914108Z" modified="2025-08-01T17:52:09.012947Z" visited="2025-07-17T17:48:26.914108Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_romania_dev.py" added="2025-07-17T17:48:26.914108Z" modified="2025-10-03T10:31:25.543650Z" visited="2025-07-17T17:48:26.914108Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6940,12 +6927,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-01T17:52:09.012946Z" count="29"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.543648Z" count="32"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.radar_clutter" added="2025-07-18T11:44:52.208379Z" modified="2025-07-30T09:39:43.541932Z" visited="2025-07-18T11:44:52.208379Z">
+  <bookmark href="file:///home/bramv/.radar_clutter" added="2025-07-18T11:44:52.208379Z" modified="2025-10-03T08:01:33.616536Z" visited="2025-07-18T11:44:52.208379Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -6953,12 +6940,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-07-30T09:39:43.541931Z" count="9"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:01:33.616535Z" count="10"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_shmi.py" added="2025-07-21T14:13:41.397549Z" modified="2025-08-15T11:54:56.645239Z" visited="2025-07-21T14:13:41.397551Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_shmi.py" added="2025-07-21T14:13:41.397549Z" modified="2025-10-03T10:34:21.476880Z" visited="2025-07-21T14:13:41.397551Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -6966,12 +6953,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-15T11:54:56.645238Z" count="104"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:34:21.476877Z" count="110"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/changes.html" added="2025-07-28T15:51:40.590052Z" modified="2025-09-18T20:01:16.184225Z" visited="2025-07-28T15:51:40.590053Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/notes/changes.html" added="2025-07-28T15:51:40.590052Z" modified="2025-10-02T18:50:54.017966Z" visited="2025-07-28T15:51:40.590053Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -6979,12 +6966,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:01:16.184223Z" count="108"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T18:50:54.017965Z" count="127"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.radar_scripts" added="2025-07-30T09:41:41.336955Z" modified="2025-09-18T08:44:17.316960Z" visited="2025-07-30T09:41:41.336955Z">
+  <bookmark href="file:///home/bramv/.radar_scripts" added="2025-07-30T09:41:41.336955Z" modified="2025-10-03T08:01:33.622544Z" visited="2025-07-30T09:41:41.336955Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -6992,12 +6979,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T08:44:17.316959Z" count="14"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:01:33.622543Z" count="23"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/radar_converter_dev2.py" added="2025-07-30T09:55:05.760237Z" modified="2025-09-19T08:54:46.192854Z" visited="2025-07-30T09:55:05.760238Z">
+  <bookmark href="file:///mnt/essl/scripts/radar_converter_dev2.py" added="2025-07-30T09:55:05.760237Z" modified="2025-10-03T10:31:25.976761Z" visited="2025-07-30T09:55:05.760238Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -7005,12 +6992,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.192852Z" count="64"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.976760Z" count="136"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radar_shmi_dev.py" added="2025-07-31T13:35:36.183380Z" modified="2025-08-15T14:01:36.484847Z" visited="2025-07-31T13:35:36.183380Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radar_shmi_dev.py" added="2025-07-31T13:35:36.183380Z" modified="2025-10-03T10:31:25.556030Z" visited="2025-07-31T13:35:36.183380Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -7018,7 +7005,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-15T14:01:36.484730Z" count="18"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.556029Z" count="21"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7049,7 +7036,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radars_old.py" added="2025-08-01T17:56:19.275342Z" modified="2025-09-19T08:54:46.076486Z" visited="2025-08-01T17:56:19.275344Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radars_old.py" added="2025-08-01T17:56:19.275342Z" modified="2025-10-03T10:31:25.804037Z" visited="2025-08-01T17:56:19.275344Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -7057,7 +7044,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.076485Z" count="34"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.804035Z" count="46"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7088,7 +7075,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.radar_gather" added="2025-08-08T15:19:45.685592Z" modified="2025-08-08T15:20:31.966707Z" visited="2025-08-08T15:19:45.685592Z">
+  <bookmark href="file:///home/bramv/.radar_gather" added="2025-08-08T15:19:45.685592Z" modified="2025-10-03T08:01:33.624915Z" visited="2025-08-08T15:19:45.685592Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -7096,7 +7083,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-08T15:20:31.966706Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:01:33.624913Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7205,7 +7192,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bramv/.radarsmf" added="2025-08-17T15:45:26.543813Z" modified="2025-08-17T15:45:26.543816Z" visited="2025-08-17T15:45:26.543813Z">
+  <bookmark href="file:///home/bramv/.radarsmf" added="2025-08-17T15:45:26.543813Z" modified="2025-10-03T08:01:33.627174Z" visited="2025-08-17T15:45:26.543813Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -7213,7 +7200,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-08-17T15:45:26.543815Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:01:33.627172Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7647,7 +7634,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/main.js" added="2025-08-28T12:20:56.849068Z" modified="2025-09-18T20:26:02.418343Z" visited="2025-08-28T12:20:56.849068Z">
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_dev/radar/main.js" added="2025-08-28T12:20:56.849068Z" modified="2025-10-05T11:46:19.924531Z" visited="2025-08-28T12:20:56.849068Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
@@ -7655,7 +7642,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-18T20:26:02.418340Z" count="503"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T11:46:19.924530Z" count="710"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7803,7 +7790,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/essl/scripts/get_radars_dev2.py" added="2025-09-18T10:32:09.921012Z" modified="2025-09-19T08:54:46.074456Z" visited="2025-09-18T10:32:09.921012Z">
+  <bookmark href="file:///mnt/essl/scripts/get_radars_dev2.py" added="2025-09-18T10:32:09.921012Z" modified="2025-10-03T10:31:25.795820Z" visited="2025-09-18T10:32:09.921012Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -7811,12 +7798,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T08:54:46.074455Z" count="12"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.795818Z" count="23"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/srv3_essl/work/radar_datasets/move_files_to_proper_dataset_folder.py" added="2025-09-19T08:58:56.320955Z" modified="2025-09-19T11:01:44.298054Z" visited="2025-09-19T08:58:56.320956Z">
+  <bookmark href="file:///mnt/srv3_essl/work/radar_datasets/move_files_to_proper_dataset_folder.py" added="2025-09-19T08:58:56.320955Z" modified="2025-09-19T16:51:24.370706Z" visited="2025-09-19T08:58:56.320956Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
@@ -7824,7 +7811,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T11:01:44.298052Z" count="88"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T16:51:24.370704Z" count="96"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -7838,6 +7825,409 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-19T12:20:19.526988Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/move_to_waymel.py" added="2025-09-23T09:43:48.568884Z" modified="2025-09-23T09:53:07.391101Z" visited="2025-09-23T09:43:48.568884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:53:07.391099Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_functions.py" added="2025-09-23T09:44:29.611918Z" modified="2025-09-23T09:44:29.611922Z" visited="2025-09-23T09:44:29.611918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:44:29.611920Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_meta.py" added="2025-09-23T09:44:29.630996Z" modified="2025-09-23T09:44:29.630998Z" visited="2025-09-23T09:44:29.630996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:44:29.630997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter_combi.py" added="2025-09-23T09:44:29.668663Z" modified="2025-09-23T09:44:29.668667Z" visited="2025-09-23T09:44:29.668663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:44:29.668665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter_remove.py" added="2025-09-23T09:44:29.678768Z" modified="2025-09-23T09:44:29.678771Z" visited="2025-09-23T09:44:29.678768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:44:29.678770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarfilter/radar_tfilter_individual.py" added="2025-09-23T09:44:29.680750Z" modified="2025-09-23T09:44:29.680752Z" visited="2025-09-23T09:44:29.680750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-23T09:44:29.680751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radars2.py" added="2025-09-23T10:40:34.517734Z" modified="2025-10-03T10:31:25.756268Z" visited="2025-09-23T10:40:34.517735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.756266Z" count="79"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_download.py" added="2025-09-23T10:53:34.338942Z" modified="2025-10-05T10:52:36.819965Z" visited="2025-09-23T10:53:34.338943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T10:52:36.819964Z" count="62"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_read-and-convert.py" added="2025-09-23T11:04:43.538856Z" modified="2025-09-24T08:55:49.580932Z" visited="2025-09-23T11:04:43.538857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-24T08:55:49.580931Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_gather-from-disk.py" added="2025-09-23T11:39:14.471354Z" modified="2025-09-24T08:55:49.577236Z" visited="2025-09-23T11:39:14.471354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-24T08:55:49.577235Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radar_download.py" added="2025-09-24T09:55:41.459830Z" modified="2025-10-03T10:31:25.782777Z" visited="2025-09-24T09:55:41.459830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.782775Z" count="54"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radar_read-and-convert.py" added="2025-09-24T09:55:41.462108Z" modified="2025-09-24T09:59:06.106805Z" visited="2025-09-24T09:55:41.462108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-24T09:59:06.106803Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radar_process.py" added="2025-09-24T09:59:57.157876Z" modified="2025-10-03T10:31:25.577591Z" visited="2025-09-24T09:59:57.157876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.577589Z" count="186"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bramv/.get_radar" added="2025-09-25T08:50:09.178549Z" modified="2025-09-29T15:51:09.116965Z" visited="2025-09-25T08:50:09.178549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-29T15:51:09.116963Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/radar_converter_copy.py" added="2025-09-25T08:51:21.509234Z" modified="2025-10-05T10:52:36.878723Z" visited="2025-09-25T08:51:21.509234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T10:52:36.878721Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radar_gather-from-disk.py" added="2025-09-25T10:31:13.580384Z" modified="2025-10-03T10:31:25.505936Z" visited="2025-09-25T10:31:13.580384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.505934Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/work/radar_move_files/move_files_to_proper_dataset_folder.py" added="2025-09-26T09:13:46.209210Z" modified="2025-09-26T09:13:46.209213Z" visited="2025-09-26T09:13:46.209210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-26T09:13:46.209212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/work/radar_move_files/move_zaventem_to_skeyes_folder.py" added="2025-09-26T09:15:09.761300Z" modified="2025-09-26T09:18:59.519612Z" visited="2025-09-26T09:15:09.761301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-09-26T09:18:59.519610Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_cases.py" added="2025-09-27T09:35:59.401784Z" modified="2025-10-05T14:47:52.338960Z" visited="2025-09-27T09:35:59.401784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T14:47:52.338958Z" count="165"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_clutter_map.py" added="2025-09-27T09:35:59.443715Z" modified="2025-10-05T10:52:36.734606Z" visited="2025-09-27T09:35:59.443715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T10:52:36.734605Z" count="43"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/work/radarsmf/extract_incomplete_tars.py" added="2025-09-28T17:55:21.159821Z" modified="2025-10-05T11:00:33.837328Z" visited="2025-09-28T17:55:21.159821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T11:00:33.837327Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/test.txt" added="2025-10-01T15:21:13.374736Z" modified="2025-10-01T15:21:13.374741Z" visited="2025-10-01T15:21:13.374737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-01T15:21:13.374739Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/logs/test.txt" added="2025-10-01T15:21:28.200514Z" modified="2025-10-01T15:21:28.200518Z" visited="2025-10-01T15:21:28.200514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-01T15:21:28.200516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radars2.py" added="2025-10-01T15:49:01.215158Z" modified="2025-10-05T12:09:32.121527Z" visited="2025-10-01T15:49:01.215159Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T12:09:32.121525Z" count="108"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/tensorflow/configure.py" added="2025-10-02T08:59:14.718135Z" modified="2025-10-02T08:59:14.718212Z" visited="2025-10-02T08:59:14.718135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T08:59:14.718174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_radar_process.py" added="2025-10-02T09:25:37.527191Z" modified="2025-10-05T12:07:07.204742Z" visited="2025-10-02T09:25:37.527191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-05T12:07:07.204738Z" count="45"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl_www/v/rad_pub_com/radar/static/radars_eu.geojson" added="2025-10-02T11:53:45.739598Z" modified="2025-10-02T11:53:45.739602Z" visited="2025-10-02T11:53:45.739598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/geo+json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-02T11:53:45.739600Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bramv/.radar_main" added="2025-10-03T08:01:33.619326Z" modified="2025-10-03T08:02:00.256533Z" visited="2025-10-03T08:01:33.619326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T08:02:00.256531Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/essl/scripts/get_radar_cases.py" added="2025-10-03T10:31:25.461604Z" modified="2025-10-03T10:31:25.461608Z" visited="2025-10-03T10:31:25.461605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-03T10:31:25.461606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_icon-eu.py" added="2025-10-04T19:36:16.762445Z" modified="2025-10-04T19:36:16.762467Z" visited="2025-10-04T19:36:16.762446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-04T19:36:16.762466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/srv3_essl/scripts/get_icon-d2.py" added="2025-10-04T19:36:16.800999Z" modified="2025-10-04T19:37:38.302888Z" visited="2025-10-04T19:36:16.800999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-04T19:37:38.302885Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

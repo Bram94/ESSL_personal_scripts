@@ -1,0 +1,4 @@
+echo "connect to server 3"
+sshfs -p 2203 testbed@vpn.essl.org:/home/testbed /mnt/srv3_essl
+cd /mnt/srv3_essl/scripts
+gedit get_radar* radar_converter* &

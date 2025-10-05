@@ -1,550 +1,3 @@
-./.radar
-gedit ESSL/useful_commands.txt 
-./.essl3
-./.essl3
-./.essl3
-./.essl3
-./.eum4
-ls
-cd /mnt/eum4/work/svrstormsig/svrstormsig/python/new_model/
-ls
-gedit run_write_gfs_trop_temp_to_combined_ncdf.py 
-ls
-cd ../EDA
-ls
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-./.essl3
-./.essl3
-./.eum4
-gedit ESSL/useful_commands.txt 
-./.essl3
-./.radar
-./.essl3
-npm
-./.eum4
-./.eum4
-ls
-cd /mnt/eum4
-ls
-./.essl3
-./.essl3
-./.essl4
-./.essl3
-./.essl3
-./.eum4
-./.essl3
-cd ESSL
-gedit useful_commands.txt 
-./.essl3
-./.eum4
-cd /mnt/eum4
-ls
-cd web
-./.eum4
-./.essl3
-gedit ESSL/useful_commands.txt 
-./.radar
-cd /mnt/srv3_essl_www/images
-ls
-./.srv3_essl_www
-cd /mnt/srv3_essl_www
-ls
-cd eumwwwbuf/
-ls
-cd images/
-ls
-./.eum4
-cd /mnt/eum4/work/svrstormsig/
-ls
-cd test
-ls
-cd 202506/202506
-cd 202506/20250613
-ls
-cd France/
-ls
-geeqie
-ls
-./.essl3
-./.essl3
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/v/dev
-ls
-cd static
-gedit products.txt 
-cd ~
-ls
-gedit .essl3
-mkdir -p /mnt/srv3_images
-sudo mkdir -p /mnt/srv3_images
-cd /mnt
-ls -l
-ssh -p 2203 testbed@vpn.essl.org:/mnt/essl_nas03/www/html/testbed/images /mnt/srv3_images
-sshfs -p 2203 testbed@vpn.essl.org:/mnt/essl_nas03/www/html/testbed/images /mnt/srv3_images
-sudo chown bramv:bramv srv3_images
-sshfs -p 2203 testbed@vpn.essl.org:/mnt/essl_nas03/www/html/testbed/images /mnt/srv3_images
-cd srv3_images/
-ls
-cd ot/202506/20250613
-cd France/
-geeqie
-ls
-ls -l
-./.eum4
-cd /mnt/eum4
-ls
-cd work/svrstormsig/
-ls
-cd /mnt/eum4
-ls
-cd work/svrstormsig/test/
-ls
-cd 202506/20250613
-ls
-cd France/
-geeqie
-ls
-cd ../../..
-cd ..
-ls
-cd svrstormsig/
-ls
-cd ..
-cd ~
-ls
-cd /mnt/eum4/work/svrstormsig/
-l
-ls
-cd test
-ls
-cd 202506
-ls
-cd 20250613
-ls
-cd W-Alps/
-ls
-cd ../France
-geeqie
-./.essl3
-./.eum4
-./.essl4
-gedit ESSL/useful_commands.txt 
-./.essl3
-./.eum4
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/v/dev
-ls
-gedit static/products.txt static/neatnames.txt 
-ls
-cd /mnt/essl
-ls
-cd ../..
-ls
-cd /mnt/srv3_essl_www
-ls
-cd obs/eswd
-ls
-cd obs
-ls
-cd ~
-ls
-./.essl3
-./.essl4
-./.essl3
-./.essl4
-./.radar
-cd /mnt/srv3_essl_www/v/rad/radar
-ls
-gedit main.js 
-cd /mnt/eum4
-ls
-cd work/svrstormsig/
-ls
-cd svrstormsig/
-ls
-cd python/
-cd EDA
-ls
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-cd ~
-ls
-crontab -e
-./.essl3
-./.essl
-cd /mnt/essl/scripts
-ls
-gedit get_radar_fmi.py 
-gedit get_radar_dmi.py
-./.essl
-./.srv3_essl
-cd /mnt/srv3_essl/scripts
-ls
-gedit sync_eswd.py 
-gedit testbedutils.py 
-gedit colorscales.txt 
-cp sync_eswd.py sync_new_eswd.py
-gedit sync_new_eswd.py 
-./.essl3
-./.eum4
-./.srv3_essl_www
-./.essl_www
-cd /mnt/essl_www
-ls
-cd images/ot
-ls
-cd 202506/20250619
-ls
-cd Iberia/
-ls
-ls -l
-./.eum4
-./.srv3_essl
-cd /mnt/srv3_essl/scripts/
-gedit colorscales.txt 
-gedit sync_new_eswd.py 
-./.essl3
-./.essl4
-./.essl3
-./.eum4
-cd /mnt/eum4/logs
-ls
-gedit svrstormsig_log.txt 
-ls
-tail -f svrstormsig_log.txt 
-./.essl3
-./.essl4
-./.eum4
-cd /mnt/eum4/work/svrstormsig/svrstormsig/python/EDA
-ls
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-ls
-cd /mnt/srv3_essl/scripts
-ls
-gedit sync_eswd.py 
-cd /mnt/upload-01-sftp/eswd_upload/data
-ls
-grep eswd
-gedit get_eswd.py
-cp get_eswd.py get_new_eswd.py
-gedit get_new_eswd.py 
-gedit get_eswd
-gedit get_eswd.py
-gedit ../cron.txt
-./.eum4
-ls
-./.essl3
-cd /mnt/eum4
-cd ~
-./.eum4
-cd /mnt/eum4/work/svrstormsig/
-ls
-cd svrstormsig/python/EDA/
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-./.eum4
-cd /mnt/eum4/work/svrstormsig/svrstormsig/python/EDA/
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-./.essl3
-./.radar
-./.eum4
-cd /mnt/eum4/work/svrstormsig/
-ls
-gedit run.sh
-gedit ../../cron.txt 
-./.eum4
-./.essl3
-cd /cd /mnt/eum4
-cd /mnt/eum4
-gedit cron.txt
-ls
-gedit cron.txt
-./.essl4
-./.essl3
-gedit .eum4
-./.eum4
-ls
-cd /mnt/eum4
-gedit cron.txt
-cd work/svrstormsig/
-ls
-gedit run.sh
-./.essl3
-./.srv3_essl
-./.essl
-cd /mnt/essl/scripts
-ls
-gedit get_radar_geosphere.py radar_converter.py 
-gedit get_radar_geosphere.py radar_converter.py &
-cd /mnt/essl/scripts
-gedit get_radar_geosphere.py radar_converter.py &
-./.essl4
-./.essl3
-./.essl
-cd /mnt/essl/scripts
-gedit get_radar_geosphere.py radar_converter.py &
-cd /mnt/essl/data
-ls
-cd radars/geosphere/202506/20250624
-ls
-cd hochficht/
-ls
-cp WXRHOF_202506240720.hdf /mnt/c/Users/bramv/Downloads
-./.essl3
-./.srv3_essl
-./.essl4
-./.essl3
-ls
-./.essl3
-./.essl4
-./.essl3
-./.essl4
-./.srv3_essl_Www
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/
-ls
-gedit links.js
-gedit links.js &
-cd tst
-ls
-cd v/tst
-gedit links.js &
-cd ..
-ls
-cd tsttmp
-ls
-gedit links.js
-./.eum4
-./.essl4
-./.essl3
-./.radar
-cd /mnt/srv3_essl_www/v/rad_dev/radar/notes
-cd /mnt/srv3_essl_www/rad_dev/radar/notes
-cd /mnt/srv3_essl_www/
-ls
-cd ~
-./.radar
-cd /mnt/srv3_essl_www/
-ls
-cd ..
-cd essl_www/
-ls
-cd ..
-ls
-cd ..
-~/.radar &
-cd ~
-ls
-./.radar
-cd ESSL
-gedit useful_commands.txt 
-cd /mnt/srv3_essl_www/
-ls
-cd v/rad_dev/radar/notes
-gedit cases.txt
-nano cases.txt
-cd ../..
-cd ..
-dirs="rad rad_pub_com rad_pub_non"; for dir in $dirs; do cp rad_dev/radar/notes/cases.txt $dir/radar/notes; done;
-./.essl3
-./.srv3_essl_www
-ls
-cd /mnt/srv3_essl_www/v
-ls
-cd tsttmp_dev
-ls
-gedit displayer.js displayer_query.php &
-ls
-cd ..
-cd tsttmp
-ls
-gedit displayer.js
-ls
-cd ../tst
-ls
-gedit displayer.js 
-cd ../dev
-gedit displayer.js 
-cd ..
-ls
-cd pub
-gedit displayer.js 
-cd ../dev_new
-gedit displayer.js 
-ls
-cd ../tsttmp
-ls
-gedit displayer.php 
-ls
-gedit links.js
-./.eum4
-./.eum4
-cd/ mnt/eum4
-cd /mnt/eum4
-ls
-cd work/svrstormsig/
-cp get_ot.py vis_ot.py
-gedit vis_ot.py 
-cd ../..
-ls
-./.essl3
-ls
-./.essl3
-./.essl4
-./.essl
-cd /mnt/essl/scripts
-gedit get_radar* &
-./.essl3
-./.eum4
-./.essl3
-./.essl3
-./.essl3
-./.essl3
-./.eum4
-cd /mnt/eum4/work/svrstormsig/svrstormsig/
-ls
-cd python/new_model/
-ls
-cd ..
-ls
-cd EDA
-ls
-gedit mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-cp mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py _mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-gedit _mtg_create_vis_ir_numpy_arrays_from_netcdf_files2.py 
-./.eum4
-./.essl3
-./.essl4
-./.essl3
-./.radar
-./.essl4
-./.essl3
-./.essl4
-./.essl3
-./.radar
-gedit ESSL/useful_commands.txt 
-./.essl
-cd /mnt/essl/data
-ls
-cd ..
-cd ~
-./.essl_www
-cd /mnt/essl_www/radars
-ls
-cd 202507/20250708/
-ls
-cd gradiste
-ls
-cp * /mnt/e/radar_data_NLradar
-cd /mnt/essl_www/radars/202507/20250708/gradiste$
-cd /mnt/essl_www/radars/202507/20250708/gradiste
-cp * /mnt/e/radar_data_NLradar
-cd /mnt/e
-ls
-cd ..
-ls
-cd f
-ls
-cd ..
-cd d
-ls
-cd ..
-c e
-ls
-cd e
-ls
-./.essl
-cd /mnt/essl/scripts
-gedit radar_converter.py
-./.essl_ww
-./.essl_www
-cd /mnt/essl_www/radars/202507/20250708/gradiste
-ls
-cp * /mnt/e/radar_data_NLradar
-./.essl_www
-cd /mnt/essl_www/radars/202507/20250708/malyjavornik
-cp * /mnt/e/radar_data_NLradar/test/malyjavornik
-rsync * /mnt/e/radar_data_NLradar/test/malyjavornik
-cd ../..
-rsync 20250707/malyjavornik/* /mnt/e/radar_data_NLradar/test/malyjavornik
-rsync -v 20250707/malyjavornik/* /mnt/e/radar_data_NLradar/test/malyjavornik
-rsync -v 20250708/spanilaz/* /mnt/e/radar_data_NLradar/test/spanilaz
-rsync -v 20250708/kojsovskahola/* /mnt/e/radar_data_NLradar/test/spanilaz
-./.radar
-ls
-./.radar
-./.essl3
-./.radar
-gedit ESSL/useful_commands.txt 
-./.essl_www
-./.srv3_essl_www
-cd /mnt/srv3_essl_www/
-ls
-cd radars
-ls
-cd 202507
-rsync -v 2025070[67]/gradiste/* /mnt/e/radar_data_NLradar/test/gradiste
-for radar in "malyjavornik kojsovskahola spanilaz"; do rsync -v 2025070[67]/$radar/* /mnt/e/radar_data_NLradar/test/$radar
-for radar in "malyjavornik kojsovskahola spanilaz"; do rsync -v 2025070[67]/$radar/* /mnt/e/radar_data_NLradar/test/$radar; done;
-ls
-for radar in "malyjavornik kojsovskahola spanilaz"; do rsync -v 2025070[67]/$radar/* /mnt/e/radar_data_NLradar/test/$radar; done;
-for radar in "malyjavornik kojsovskahola spanilaz"; do echo $radar; rsync -v 2025070[67]/$radar/* /mnt/e/radar_data_NLradar/test/$radar; done;
-radars="malyjavornik kojsovskahola spanilaz"; for radar in $radars; do echo $radar; rsync -v 2025070[67]/$radar/* /mnt/e/radar_data_NLradar/test/$radar; done;
-./.radar
-./.essl
-cd /mnt/essl/data/radars/estea/
-ls
-cd 202507/20250707/
-ls
-./.radar
-./.essl
-cd /mnt/essl/scripts
-ls
-gedit get_radar_dhmz.py radar_converter.py &
-./.srv3_essl
-./.essl
-cd /mnt/essl/scripts/
-ls
-gedit get_radar_estea.py 
-cd ../logs
-ls
-tail -f get_radars.txt 
-./.essl3
-./.essl4
-./.essl3
-./.radar
-./.essl3
-gedit ESSL/useful_commands.txt 
-./.radar
-./.essl3
-./.essl4
-./.radar
-./.essl4
-./.srv3_essl
-cd /mnt/srv3_essl/scripts/
-ls
-gedit radar_functions.py 
-cd ~
-./.scripts_radar
-./.essl4
-./.essl
-./.essl_www
-cd /mnt/essl_www/radars/
-ls
-cd 202507/20250707/gradiste/
-ls
-cd /mnt/srv3_essl/scripts/
-gedit radar_converter.py 
-./.essl4
-./.srv3_essl
-cd /mnt/srv3_essl/scripts
-gedit radar_converter.py
-./.essl
-cd /mnt/essl/scripts/
-ls
-gedit get_radar_clutter_map.py 
-gedit get_radar_clutter_map.py &
-ls
-gedit radar_converter.py
-gedit get_radar_shmu.py 
 ls
 gedit get_radars*
 ./.essl
@@ -1998,3 +1451,550 @@ python3 move.py
 cd /mnt/essl/scripts
 ls
 gedit get_gld.pl &
+./.radarsmf
+./.essl4
+cd Python/
+ls
+gedit move_data_to_server.py &
+cd ~
+./.radarsmf
+cd /mnt/essl/work/radarsmf/
+python3 move.py 
+./.essl3
+./.radar
+cd /mnt/essl/work/radarsmf/
+python3 move.py 
+cd ~
+./.radar_tfilter
+cd /mnt/srv3_essl/scripts
+gedit radar_tfilter*
+cd ..
+gedit cron.txt
+./.essl3
+./.essl4
+./.radar_scripts
+./.radar_scripts dmi
+./.radar_scripts dmi dwd
+cd /mnt/essl/work
+cd ~
+cd /mnt/srv3_essl/work
+ls
+mkdir radar_datasets
+cd radar_datasets/
+ls
+gedit move_files_to_proper_dataset_folder.py
+cd ~
+./.radar_scripts imgw
+cd Python
+ls
+python3 move_data_to_server.py 
+cd ..
+./.srv3_data
+cd /mnt/srv3_data
+ls
+cd ..
+fusermount -u /mnt/srv3_data
+cd /mnt/srv3_data
+ls
+cd radars
+ls
+cd ..
+rm -r *
+cd ../..
+cd ~
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+pip3 install numpy
+python3 move_data_to_server.py 
+cd ..
+ls
+git add .
+git
+git add .
+git status
+gedit .gitignore
+git add .
+git status
+git commit -m "update"
+git push
+cd /mnt/srv3_essl/scripts
+ls
+cd ~
+ls .*
+cd /mnt/srv3_essl/scripts
+gedit radar_tfilter*
+cd ../work/radar_datasets/
+ls
+gedit move_files_to_proper_dataset_folder.py 
+ls
+gedit move_files_to_proper_dataset_folder.py &
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+ls
+cd ~
+./.radar
+./.essl3
+./.srv3_data
+cd Python
+gedit move_data_to_server.py &
+./.radarsmf
+cd Python
+gedit move_data_to_server.py 
+ls
+python3 move_data_to_server.py 
+./.essl4
+./.essl3
+./.srv3_essl
+cd /mnt/srv3_essl/
+ls
+cd scripts
+ls
+cd radar
+ls
+cp /mnt/c/users/bramv/NLradar/NLradar_private/Input_files/french_radars_nyquist.pkl .
+ls
+cd ..
+cp /mnt/essl/scripts/get_radar_clutter_map.py .
+cd radar
+cp /mnt/essl/scripts/radar/french_radars_nyquist.pkl .
+ls
+cd dealiasing/
+ls
+gedit unet_vda/unet_vda.py 
+./.essl
+cd /mnt/essl/scripts
+ls
+cd radar
+ls
+./.radarsmf
+./.essl4
+gedit ESSL/useful_commands.txt &
+./.essl3
+./.radar_scripts meteofrance
+gedit ESSL/useful_commands.txt 
+gedit Python/move_data_to_server.py 
+ls
+cd Python/
+python3 move_data_to_server.py 
+cd /mnt/srv3_data
+ls
+cd radars
+ls
+cd meteo-france/
+ls
+cd ~
+cd /mnt/srv3_data
+rm -r radars
+cd ~
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.radarsmf
+./.radar_tfilter
+cd /mnt/essl/scripts
+ls
+gedit radar_tfilter_composites.py 
+./.essl
+cd /mnt/essl/work/radarfilter
+ls
+gedit move_to_waymel.py 
+gedit radar*.py
+ls
+cd data
+ls
+cd ..
+cd data
+ls
+cd li
+ls
+cd composite/
+ls
+cd ..
+ls
+cd ..
+cd ~
+./.radar_scripts
+./.essl3
+./.srv3_essl
+cd /mnt/srv3_essl/work
+ls
+cd radarfilter
+ls
+cd data
+ls
+cd ..
+ls
+gedit *.py &
+ls
+cd data
+ls
+cd composites/
+ls
+cd ..
+cd results/
+ls
+cd ..
+ls
+cd ~
+gedit Python/move_data_to_server.py 
+ls
+./.essl3
+./.radar_scripts meteofrance
+ls
+cd /mnt/essl/scripts
+ls
+cd /mnt/srv3_essl/scripts
+ls
+gedit get_radars2.py &
+cd ~
+ls
+gedit .radar_scripts
+./.radar_scripts all
+ls
+cd /mnt/srv3_essl/scripts
+ls
+gedit get_radar_download.py
+ls
+gedit get_radar_read-and-convert.py
+gedit get_radar_gather-from-disk.py
+ls
+cd ../work/radarfilter
+ls
+gedit radar_tfilter.py 
+cd data/li
+ls
+cd composite/
+ls
+gedit ~/Python/move_data_to_server.py 
+ls
+cd ~
+./.radarsmf
+gedit ESSL/useful_commands.txt 
+gedit ESSL/useful_commands.txt &
+./.essl3
+./.radars
+./.radar
+ls
+gedit Python/move_data_to_server.py 
+cd /mnt/srv3_essl/scripts
+gedit radar_converter.py 
+cd ~
+./.radarsmf
+./.essl4
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+cd ~
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+cd ~
+cd Python
+cd ..
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.essl3
+gedit ESSL/useful_commands.txt 
+./.essl3
+./.radar
+ls
+cd /mnt/essl/work/radarsmf
+cd /mnt/essl/work/
+./.essl
+./.radarsmf
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+ls
+cd ~/mnt/essl/scripts
+cd /mnt/essl/scripts
+gedit get_radars2.py 
+ls
+gedit get_radar_download.py get_radar_read-and-convert.py 
+gedit get_radar_download.py get_radar_read-and-convert.py gedit get_radar_process.py 
+ls
+gedit get_radar_dmi.py 
+ls
+./.essl4
+./.srv3_essl
+cd /mnt/srv3_essl/scripts/
+gedit radar_converter.py 
+ls
+gedit get_radar_download.py get_radar_read-and-convert.py get_radar_gather-from-disk.py &
+ls
+gedit get_radars2.py 
+cd ~/Python
+gedit move_data_to_server.py 
+./.essl4
+cd Python
+gedit move_data_to_server.py &
+ls
+python3 move_data_to_server.py 
+./.radarsmf
+cd /mnt/srv3_essl/scripts
+./.radar_scripts
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.radar
+./.get_radar
+ls
+gedit ESSL/useful_commands.txt 
+gedit Python/move_data_to_server.py 
+./.radarsmf
+gedit .get_radar
+gedit .radar
+gedit .essl
+gedit .radar_scripts
+chmod 755 .get_radar
+./.get_radar
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+./.essl4
+./.essl
+cd /mnt/essl/work/radarsmf
+python3 move.py
+ls
+./.get_radar
+./.radarsmf
+gedit Python/move_data_to_server.py 
+ls
+cd /mnt/essl
+cd work/radarsmf
+python3 move.py 
+./.essl3
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.essl4
+./.essl3
+./.get_radar
+./.essl3
+./.get_radar
+./.radar
+./.get_radar
+./.essl3
+ls
+gedit Python/move_data_to_server.py 
+./.essl3
+./.essl3
+./.essl4
+./.essl4
+gedit Python/move_data_to_server.py &
+ls
+./.get_radar
+./.radarsmf
+cd /mnt/e
+ls
+./.radar
+cd Python
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+cd /mnt/e
+ls
+cd radar_data_NLradar/
+ls
+cd ..
+rm -r *
+cd ~
+cd Python
+cd /mnt/e
+ls
+./.essl4
+./.get_radar
+./.radar
+./.essl
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+cd /mnt/e
+ls
+cd ~
+./.essl4
+./.radarsmf
+./.essl
+cd /mnt/essl/scripts
+ls
+gedit get_radars2.py 
+./.essl3
+./.essl4
+./.get_radar
+./.essl
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+./.essl4
+./.get_radar
+cd /mnt/essl/work/radarsmf
+./.essl
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+./.get_radar
+ls
+./.essl
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+cd ~
+./.radarsmf
+./.essl4
+./.radar
+cd Python
+gedit move_data_to_server.py &
+cd ..
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.essl3
+./.essl3
+./.essl3
+./.radar
+ls
+./.get_radar
+ls
+gedit Python/move_data_to_server.py 
+ls
+gedit .get_radar
+./.get_radar
+./.get_radarcd /mnt/essl/work/radarsmf
+./.essl
+./.get_radarcd /mnt/essl/work/radarsmf
+cd /mnt/essl/work/radarsmf
+python3 move.py 
+./.essl3
+./.get_radar
+./.essl3
+ls
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+cd /mnt/srv3_data
+ls
+cd /mnt/srv3_data/radars/austrocontrol/202307/20230718/patscherkofel
+ls
+./.essl3
+./.essl3
+./.radar
+./.get_radar
+cd /mnt/essl/scripts
+./.essl
+cd /mnt/essl/scripts
+gedit get_radar_fmi.py get_radar_estea.py 
+ls
+cd ~
+gedit Python/move_data_to_server.py 
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+./.essl3
+./.essl3
+./.srv3_essl
+cd /mnt/srv3_essl/logs
+gedit test.txt
+cd /mnt/essl/scripts
+gedit test.txt
+cd ../logs
+gedit test.txt
+./.essl4
+gedit ESSL/useful_commands.txt 
+gedit ESSL/useful_commands.txt &
+./.get_radar
+gedit ESSL/useful_commands.txt &ls
+./.radar
+ls
+cd /mnt/srv3_essl/scripts/radar/dealiasing
+ls
+gedit unet_vda/unet_vda.py 
+./.essl3
+./.get_radar
+./.get_radarls
+cd /mnt/essl/scripts
+./.essl
+cd /mnt/essl/scripts
+gedit get_radar_dhmz.py 
+./.essl3
+./.essl4
+./.srv3_essl
+./.get_radar
+ls
+cd /mnt/srv3_essl/scripts
+ls
+cd tensorflow
+ls
+gedit configure.py
+./configure
+./.essl3
+./.srv3_essl
+cd /mnt/srv3_essl/scripts/radar/dealiasing/unet_vda/
+gedit unet_vda.py 
+cd ~
+./.get_radar
+./.radar
+ls
+cd /mnt/srv3_essl_www/v
+ls
+gedit rad_pub_com/radar/static/radars_eu.geojson 
+gedit rad_pub_com/radar/radar_query.php 
+./.essl3
+./.essl4
+./.essl3
+./.radar
+./.get_radar
+./.radar
+ls
+cat .ssh/config
+cd .ssh/config
+cd .ssh
+ls
+cd ..
+gedit Python/move_data_to_server.py 
+cd /mnt/srv3_data
+ls
+cd radars/
+ls
+cd ..
+rm -r radars
+cd ~
+ls
+./.radar
+./.srv3_data
+cd Python
+python3 move_data_to_server.py 
+gedit ESSL/useful_commands.txt 
+gedit ESSL/useful_commands.txt &
+./.get_radar
+cp .radar .radar_main
+gedit .radar*
+./.radar_main
+./.essl4
+./.essl3
+./.essl3
+./.radar_scripts all
+./.radar_main
+cls
+./.get_radar
+gedit Python/move_data_to_server.py 
+gedit ESSL/useful_commands.txt 
+cd /mnt/srv3_essl_www/v/rad_dev/static
+ls
+cd ../radar/static
+ls
+rsync -v /mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python/marker*.png .
+ls
+cd ~
+gedit Python/move_data_to_server.py 
+gedit Python/move_data_to_server.py &
+./.radarsmf
+./.radar_main
+./.get_radar
+./.essl4
+./.essl3
+./.essl4
+./.essl3
+./.radar_main
+./.radarsmf
+ls
+cd /mnt/srv3_essl_www/v/rad_dev/radar/static
+gedit ~/ESSL/useful_commands.txt 
+rsync -v /mnt/c/Users/bramv/Dropbox/Documents/Work_ESSL/Code/radar_rendering_tests_private/python/marker*.png .
+gedit ~/Python/move_data_to_server.py 
+ls
+cd ~
+./.get_radar
+./.essl3

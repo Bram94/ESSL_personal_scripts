@@ -5,7 +5,12 @@ sshfs -p 2203 testbed@vpn.essl.org:/home/testbed /mnt/srv3_essl
 cd /mnt/essl/scripts
 for var in "$@"
 do 
-	gedit get_radar_$var* &
+	echo $var
+	if [[ "$var" == "all" ]]; then
+		gedit get_radar* &
+	else
+		gedit get_radar_$var* &
+	fi
 done
 gedit radar_converter_dev* get_radars* &
 cd /mnt/srv3_essl/scripts
